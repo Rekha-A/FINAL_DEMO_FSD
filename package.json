@@ -1,0 +1,19 @@
+{
+  "name": "final_demo_fsd",
+  "version": "1.0.0",
+  "description": "Backend Application with NodeJS + ExpressJS + MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rekha-A/FINAL_DEMO_FSD.git"
+  },
+  "author": "REKHA A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rekha-A/FINAL_DEMO_FSD/issues"
+  },
+  "homepage": "https://github.com/Rekha-A/FINAL_DEMO_FSD#readme"
+}
